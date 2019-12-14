@@ -41,3 +41,4 @@ export default class MovieCard extends Component {
 }
 
 // Don't forget your default props!
+MovieCard.def
